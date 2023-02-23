@@ -3,7 +3,7 @@ import React, { useMemo } from "react";
 //MRT Imports
 import MaterialReactTable from "material-react-table";
 
-//Mock Data
+///Mock Data
 import data from "../../data/sample_location.json";
 
 const TableComponent = () => {
