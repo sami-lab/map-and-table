@@ -1,0 +1,94 @@
+{
+  "locations": [
+    {
+      "name": "AT&T Stadium",
+      "street": "1 AT&T Way",
+      "city": "Arlington",
+      "state": "TX",
+      "zip": "76011",
+      "latitude": 32.747778,
+      "longitude": -97.092778
+    },
+    {
+      "name": "Globe Life Field",
+      "street": "734 Stadium Dr",
+      "city": "Arlington",
+      "state": "TX",
+      "zip": "76011",
+      "latitude": 32.747294,
+      "longitude": -97.082226
+    },
+    {
+      "name": "American Airlines Center",
+      "street": "2500 Victory Ave",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75219",
+      "latitude": 32.790556,
+      "longitude": -96.810278
+    },
+    {
+      "name": "Cotton Bowl Stadium",
+      "street": "3750 The Midway",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75215",
+      "latitude": 32.779167,
+      "longitude": -96.758056
+    },
+    {
+      "name": "Dickies Arena",
+      "street": "1911 Montgomery St",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76107",
+      "latitude": 32.731389,
+      "longitude": -97.3475
+    },
+    {
+      "name": "Texas Motor Speedway",
+      "street": "3545 Lone Star Cir",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76177",
+      "latitude": 33.0375,
+      "longitude": -97.282778
+    },
+    {
+      "name": "Gerald J. Ford Stadium",
+      "street": "5800 Ownby Dr",
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75206",
+      "latitude": 32.841389,
+      "longitude": -96.783611
+    },
+    {
+      "name": "Dr Pepper Ballpark",
+      "street": "7300 Roughriders Trail",
+      "city": "Frisco",
+      "state": "TX",
+      "zip": "75034",
+      "latitude": 33.099167,
+      "longitude": -96.825278
+    },
+    {
+      "name": "Toyota Stadium",
+      "street": "9200 World Cup Way",
+      "city": "Frisco",
+      "state": "TX",
+      "zip": "75033",
+      "latitude": 33.154722,
+      "longitude": -96.835
+    },
+    {
+      "name": "The Star in Frisco",
+      "street": "9 Cowboys Way",
+      "city": "Frisco",
+      "state": "TX",
+      "zip": "75034",
+      "latitude": 33.095833,
+      "longitude": -96.819722
+    }
+  ]
+}
