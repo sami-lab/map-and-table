@@ -6,7 +6,7 @@ import MaterialReactTable from "material-react-table";
 //Mock Data
 import data from "../../data/sample_location.json";
 
-const Example = () => {
+const TableComponent = () => {
   const columns = useMemo(
     () => [
       {
@@ -54,4 +54,4 @@ const Example = () => {
   );
 };
 
-export default Example;
+export default TableComponent;
