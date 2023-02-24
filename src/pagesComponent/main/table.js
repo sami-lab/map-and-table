@@ -4,9 +4,8 @@ import React, { useMemo } from "react";
 import MaterialReactTable from "material-react-table";
 
 ///Mock Data
-import data from "../../data/sample_location.json";
 
-const TableComponent = () => {
+const TableComponent = ({ data }) => {
   const columns = useMemo(
     () => [
       {
@@ -44,7 +43,7 @@ const TableComponent = () => {
   return (
     <MaterialReactTable
       columns={columns}
-      data={data.locations}
+      data={data}
       enableColumnFilterModes
       enableColumnOrdering
       enableSorting

@@ -1,7 +1,5 @@
 import React, { useMemo, useState } from "react";
 
-import data from "../../data/sample_location.json";
-
 import Map, {
   Marker,
   Popup,
@@ -31,12 +29,12 @@ function Pin({ size = 20 }) {
   );
 }
 
-export default function index(props) {
+export default function index({ data }) {
   const [popupInfo, setPopupInfo] = useState(null);
 
   const pins = useMemo(
     () =>
-      data.locations.map((city, index) => (
+      data.map((city, index) => (
         <Marker
           key={`marker-${index}`}
           longitude={city.longitude}
